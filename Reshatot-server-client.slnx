@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="client/client.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="5b765cfa-0380-4dc9-a43d-5c4939bad9df">
+    <Build Project="false" />
+  </Project>
+  <Project Path="server/server.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="3bf1034d-035f-4559-8bde-de62fcf85a9d">
+    <Build Project="false" />
+  </Project>
+</Solution>
